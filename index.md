@@ -11,4 +11,5 @@ show_call_box: true
 # Connor Esterwood
 
 Connor Esterwood - PhD Candidate 
-University of Michigan, School of Information
+University of Michigan
+School of Information
