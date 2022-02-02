@@ -1,4 +1,9 @@
-domain: https://connoresterwood.github.io   # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://connoresterwood.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /cte.github.io/      # place folder name if the site is served in a subfolder
+locale                   : "en-US"
+title                    : "Connor Esterwood"
+title_separator          : "-"
+name                     : &name "Connor Esterwood"
+description              : &description "PHD Candidate at UMSI"
+url                      : https://cte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "cte.github.io"
 theme: minimal-mistakes-jekyll
