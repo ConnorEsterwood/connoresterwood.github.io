@@ -1483,4 +1483,13 @@ input[type="text"] {
   opacity: 0;
 }
 
+.container {
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: stretch;
+  align-content: stretch;
+}
+
 /*# sourceMappingURL=style.css.map */
