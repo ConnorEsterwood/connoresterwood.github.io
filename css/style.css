@@ -1892,6 +1892,7 @@ hr {
   width: 32px;
   border-radius: 50%;
   text-align: center;
+  padding-top: 2.5px;
   color: white;
   margin: 0 8px 0 -12px;
 }
