@@ -1520,6 +1520,7 @@ input[type="text"] {
   flex-flow: row wrap;
   align-items: stretch;
   align-content: stretch;
+  padding-bottom: 80px;
 }
 
 /*# sourceMappingURL=style.css.map */
