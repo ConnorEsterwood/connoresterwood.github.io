@@ -538,6 +538,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-slider {
   background: #24272a;
+  margin-top: 60px;
 }
 #fh5co-slider .heading h2, #fh5co-slider .heading p {
   color: #fff;
@@ -1520,7 +1521,6 @@ input[type="text"] {
   flex-flow: row wrap;
   align-items: stretch;
   align-content: stretch;
-  padding-bottom: 80px;
 }
 
 /*# sourceMappingURL=style.css.map */
